@@ -1,4 +1,4 @@
-# Paper
+# 논문 투고 목록
 
 IJIBC(International Journal of Internet, Broadcasting and Communication) 2022 5월호
  - 한국인터넷방송통신학회 (The Institute of Internet, Broadcasting and Communication)
