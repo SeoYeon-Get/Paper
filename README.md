@@ -1,4 +1,4 @@
-# 저널 및 컨퍼런스 논문  목록
+# 저널 및 컨퍼런스 투고 논문 목록
 
 IJCC(International Joint Conference on Convergence) 2022 
 - 행사명 : The 8th O2O International Joint Conference on Convergence (IJCC 2022)
