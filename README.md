@@ -13,5 +13,5 @@ IJIBC(International Journal of Internet, Broadcasting and Communication) 2022 5�
  - https://doi.org/10.7236/IJIBC.2022.14.2.192
  - S.-Y. Gu, S.-J. Moon, and B.-J. Park, “Reinforcement learning multi-agent using unsupervised learning in a distributed cloud environment,” International Journal of      Internet, Broadcasting and Communication, vol. 14, no. 2, pp. 192–198, May 2022.
  
-1. IJCC 2022 투고 논문 미리보기
+1. IJCC 2022 투고 논문(Summary) 미리보기
 ![image](https://user-images.githubusercontent.com/91322621/177979370-e881feca-b9f8-4a45-b7b9-56775b164f19.png)
