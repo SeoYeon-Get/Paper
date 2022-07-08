@@ -1,4 +1,11 @@
-# 논문 투고 목록
+# 논문 투고 및 컨퍼런스 목록
+
+IJCC(International Joint Conference on Convergence) 2022 
+- 행사명 : The 8th O2O International Joint Conference on Convergence (IJCC 2022)
+- 일정 : 2022년 2월 17일 ~ 19일
+- Conference Homepage URL :  http://eng.iibc.kr/iconf/ijcc2022/sub02.php 
+- paper title : Machine Learning Analysis Platform based on Enterprise Systems in a Distributed Cloud
+
 
 IJIBC(International Journal of Internet, Broadcasting and Communication) 2022 5월호
  - 한국인터넷방송통신학회 (The Institute of Internet, Broadcasting and Communication)
