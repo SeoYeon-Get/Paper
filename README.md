@@ -15,3 +15,9 @@ IJIBC(International Journal of Internet, Broadcasting and Communication) 2022 5�
  - https://doi.org/10.7236/IJIBC.2022.14.2.192
  - S.-Y. Gu, S.-J. Moon, and B.-J. Park, “Reinforcement learning multi-agent using unsupervised learning in a distributed cloud environment,” International Journal of      Internet, Broadcasting and Communication, vol. 14, no. 2, pp. 192–198, May 2022.
  
+IICCC 2022(International Integrated Conference & Concert on Convergence) 
+-행사명 : The 8th International Integrated Conference & Concert on Convergence) in conjunction with ICOOC 2022 and ICCPND
+-일정 : 2022년 7월 21일(목)-7월 23일(토)
+-Conference Homepage URL : http://www.ipact.kr/eng/iconf/iiccc2022/
+-Paper title : A Study on Cluster-based Low-Latency Overcoming Multi-Agents with Reinforcement Learning Applied in a Distributed Cloud Environment
+-IICCC 2022 투고 논문(Summary) 미리보기
