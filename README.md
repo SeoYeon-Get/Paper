@@ -20,4 +20,6 @@ IICCC 2022(International Integrated Conference & Concert on Convergence)
 -일정 : 2022년 7월 21일(목)-7월 23일(토)
 -Conference Homepage URL : http://www.ipact.kr/eng/iconf/iiccc2022/
 -Paper title : A Study on Cluster-based Low-Latency Overcoming Multi-Agents with Reinforcement Learning Applied in a Distributed Cloud Environment
--IICCC 2022 투고 논문(Summary) 미리보기
+
+*IICCC 2022 투고 논문(Summary) 미리보기
+<img width="521" alt="화면 캡처 2022-07-27 181015" src="https://user-images.githubusercontent.com/91322621/181209715-2ac4b52d-9a0a-430b-b44a-9576231516be.png">
