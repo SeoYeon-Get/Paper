@@ -38,6 +38,7 @@ ISAAC 2022(International Symposium on Advanced and Applied Convergence)
 - Paper title : 머신 러닝 기반의 빅데이터 분석 오케스트레이션 시스템에 관한 연구
 - 우수 논문상 수상
 
+
 * 2022년도 융복합지식학회 추계학술대회 포스터 미리보기
 <img width="763" alt="융복합지식학회_포스터" src="https://user-images.githubusercontent.com/91322621/232421524-edafffdb-62b5-4df8-a3c5-c374a1e81519.png">
 
