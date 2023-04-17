@@ -24,11 +24,13 @@ IICCC 2022(International Integrated Conference & Concert on Convergence)
 * IICCC 2022 투고 논문(Summary) 미리보기
 <img width="521" alt="화면 캡처 2022-07-27 181015" src="https://user-images.githubusercontent.com/91322621/181209715-2ac4b52d-9a0a-430b-b44a-9576231516be.png">
 
+
 ISAAC 2022(International Symposium on Advanced and Applied Convergence) 
 - 행사명 : The 10th International Symposium on Advanced and Applied Convergence
 - 일정 : 2022년 11월 17일 ~ 19일
 - Conference Homepage URL : http://eng.iibc.kr/iconf/isaac2022/
 - Paper title : A Study on Machine Learning-based Orchestration for Big Data Analytics
+
 
 2022년도 융복합지식학회 추계학술대회 
 - 일정 : : 2022년 11월 25일(금) 12:00 ~ 18:00
@@ -38,6 +40,7 @@ ISAAC 2022(International Symposium on Advanced and Applied Convergence)
 
 * 2022년도 융복합지식학회 추계학술대회 포스터 미리보기
 <img width="763" alt="융복합지식학회_포스터" src="https://user-images.githubusercontent.com/91322621/232421524-edafffdb-62b5-4df8-a3c5-c374a1e81519.png">
+
 
 IJIBC(International Journal of Internet, Broadcasting and Communication) 2023 2월호
  - 한국인터넷방송통신학회 (The Institute of Internet, Broadcasting and Communication)
