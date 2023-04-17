@@ -11,7 +11,7 @@ IJCC(International Joint Conference on Convergence) 2022
 
 IJIBC(International Journal of Internet, Broadcasting and Communication) 2022 5월호
  - 한국인터넷방송통신학회 (The Institute of Internet, Broadcasting and Communication)
- - paper title : Reinforcement learning multi-agent using unsupervised learning in a distributed cloud environment
+ - Paper title : Reinforcement learning multi-agent using unsupervised learning in a distributed cloud environment
  - https://doi.org/10.7236/IJIBC.2022.14.2.192
  - S.-Y. Gu, S.-J. Moon, and B.-J. Park, “Reinforcement learning multi-agent using unsupervised learning in a distributed cloud environment,” International Journal of      Internet, Broadcasting and Communication, vol. 14, no. 2, pp. 192–198, May 2022.
  
@@ -23,3 +23,25 @@ IICCC 2022(International Integrated Conference & Concert on Convergence)
 
 * IICCC 2022 투고 논문(Summary) 미리보기
 <img width="521" alt="화면 캡처 2022-07-27 181015" src="https://user-images.githubusercontent.com/91322621/181209715-2ac4b52d-9a0a-430b-b44a-9576231516be.png">
+
+ISAAC 2022(International Symposium on Advanced and Applied Convergence) 
+- 행사명 : The 10th International Symposium on Advanced and Applied Convergence
+- 일정 : 2022년 11월 17일 ~ 19일
+- Conference Homepage URL : http://eng.iibc.kr/iconf/isaac2022/
+- Paper title : A Study on Machine Learning-based Orchestration for Big Data Analytics
+
+2022년도 융복합지식학회 추계학술대회 
+- 일정 : : 2022년 11월 25일(금) 12:00 ~ 18:00
+- 장소 : 서경대학교 
+- Paper title : 머신 러닝 기반의 빅데이터 분석 오케스트레이션 시스템에 관한 연구
+- 우수 논문상 수상
+
+* 2022년도 융복합지식학회 추계학술대회 포스터 미리보기
+
+IJIBC(International Journal of Internet, Broadcasting and Communication) 2023 2월호
+ - 한국인터넷방송통신학회 (The Institute of Internet, Broadcasting and Communication)
+ - Paper title : Agent with Low-latency Overcoming Technique for Distributed Cluster-based Machine Learning
+ - doi : http://dx.doi.org/10.7236/IJIBC.2023.15.1.157
+
+
+
