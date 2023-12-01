@@ -48,5 +48,15 @@ IJIBC(International Journal of Internet, Broadcasting and Communication) 2023 2�
  - Paper title : Agent with Low-latency Overcoming Technique for Distributed Cluster-based Machine Learning
  - doi : http://dx.doi.org/10.7236/IJIBC.2023.15.1.157
 
+IICCC 2023(International Symposium on Advanced and Applied Convergence)
+- 행사명 : The O2O 9th International Integrated Conference & Concert on Convergence (IICCC2023) in conjunction with ICOOC 2023 and ICCPND 2023
+- 일정 : 2023년 7월 11일(화) ~ 7월 14일(금)
+- Conference Homepage URL: http://www.ipact.kr/eng/iconf/iiccc2023/
+- Paper title : A Study on Container Orchestration System for Distributed Reinforcement Learning
 
+석사학위 논문
+- paper title:  분산 강화학습을 위한 컨테이너 오케스트레이션 설계 및 구현 Design and Implementation of Container Orchestration for Distributed Reinforcement Leatning
+- 저자: 구서연
+- 지도교수: 박병준
+- Link: https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=a38541ce62d9639affe0bdc3ef48d419&keyword=%EA%B5%AC%EC%84%9C%EC%97%B0
 
